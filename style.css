@@ -1,0 +1,49 @@
+#red {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  position: static;
+}
+
+#purple {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  position: relative;
+  top: -150px;
+  left: 50px;
+}
+
+#yellow {
+  width: 50px;
+  height: 50px;
+  background-color: yellow;
+  position: relative;
+  left: 50px;
+  top: -250px;
+}
+
+#blue {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  position: relative;
+  top: -120px;
+}
+
+#green {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: relative;
+  top: -270px;
+  left: 50px;
+}
+
+#black {
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  position: relative;
+  top: -420px;
+}
